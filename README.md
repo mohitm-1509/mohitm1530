@@ -5,7 +5,7 @@
 
 - Skills:  Machine Learning, Deep Learning, Statistical Modelling, Programming, Bayesian Inference.
 
-- Email : mohitm1530@gmail.com
+- Email : mohitm1509@gmail.com
 
 <!---
 mohitm1530/mohitm1530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
